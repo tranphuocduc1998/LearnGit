@@ -30,7 +30,7 @@
 
 ## Lession 6:
 * $ git revert <idCommit>                 `//using remove the contents of commit your call and save a new commit.`
-* $ .gitignore                `//create .gitinore move files you aren`t use in .gitinore you need not commit for that files.`
+* $ .gitignore                `//create .gitinore move files you aren't use in .gitinore you need not commit for that files.`
 
 ## Lession 7:
 * $ git remote <name> <UrlGit>    `//Using remote to Github.`
